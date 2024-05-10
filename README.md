@@ -1,1 +1,1 @@
-# To-do next: Fix Hydration Error at side view of mobile devices
+# To-do next: Connect the conversation with OPEN_AI
